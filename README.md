@@ -1,6 +1,11 @@
 # MasterWork
 My master project
 
+Taigi matome du folderius, juos galima įdėti į C diską windows serveryje.
 
-Project_Service - Folder of Windows service, which can be later added thorugh sc.exe after published
-Projects -  WPF Manual dashboard, in same folder Scripts fodler can be found.
+
+  Servie folderis yra windows service ir localhost dashboard
+
+  Project fodleryje yra skriptai ir tai yra WPF UI manual dashboard
+
+Skripte reiktų pakeisti DC.
